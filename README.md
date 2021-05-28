@@ -26,7 +26,7 @@ Hunting a chance to work with great minds.
 
 
 #### More About Mukesh
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/MUKESH_MANRAL_resume.docx)
 - :email: mukeshmanral777@gmail.com
 
 
