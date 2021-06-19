@@ -1,8 +1,8 @@
 ## Hi there I'm Mukesh <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-I'm Mukesh Manral really passionate about tackling challenges in Business Analysis, Data Science and Machine Learning.<br>
-I Love to observe mountain range through tennis racket.</br>
-Hunting a chance to work with great minds.
+Data Science enthusiast hunting for functionality crossing over between analytics and machine learning seeking an intern position with a startup.
+Love  to observe mountain range through tennis racket.
+Passion, Purpose, People, Product, Partnership
 
 :mailbox: Link Up!
 
