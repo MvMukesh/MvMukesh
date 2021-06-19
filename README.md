@@ -2,6 +2,7 @@
 
 Data Science enthusiast hunting for functionality crossing over between analytics and machine learning seeking an intern position with a startup.
 Love  to observe mountain range through tennis racket.
+
 Passion, Purpose, People, Product, Partnership
 
 :mailbox: Link Up!
