@@ -1,6 +1,6 @@
 ## Hi there I'm Mukesh <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-Data Science enthusiast hunting for functionality crossing over between analytics and machine learning seeking an intern position with a startup.
+Data Science enthusiast hunting for functionality crossing over between analytics and machine learning seeking challenging position within an reputed organization
 Love  to observe mountain range through tennis racket.
 
 Passion, Purpose, People, Product, Partnership
