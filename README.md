@@ -23,9 +23,12 @@ Passion, Purpose, People, Product, Partnership
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=python&amp;logoColor=61DBFB)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MYSQL-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=MYSQL&amp;logoColor=F0DB4F)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-Mongodb-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=MongoDBL&amp;logoColor=F0DB4F)](#)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-3C873A?style=for-the-badge&amp;labelColor=black&amp;logo=tableau&amp;logoColor=3C873A)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=github&amp;logoColor=007acc)](#)
 [![MsExcell Badge](https://img.shields.io/badge/-MsExcel-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=MsExcel&amp;logoColor=3C873)](#)
-[![Github Badge](https://img.shields.io/badge/-Github-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=github&amp;logoColor=007acc)](#)  
+[**`Machine Learning`**]
+  
 
 
 #### More About Mukesh
