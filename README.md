@@ -32,7 +32,7 @@ Passion, Purpose, People, Product, Partnership
 
 
 #### More About Mukesh
-- :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/MUKESH_MANRAL_resume.pdf)
 - :email: mukeshmanral777@gmail.com
 
 
