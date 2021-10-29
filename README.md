@@ -14,7 +14,7 @@ Passion, Purpose, People, Product, Partnership
 &lt;!-- TODO: --&gt;
 
 - 🔭 I’m currently exploring DeepLearning
-- 🤔 I’m looking forward to share my MachineLearning, DataScience knowledge.
+- 🤔 I’m looking forward to share my MachineLearning, DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 - 📫 How to reach me: mukeshmanral777@gmail.com
 - ⚡ Fun Fact: I play MMO and go to GYM very often. One of my early goals has been to get to a point where I can replicate the Crazy, Stupid, Love - Dirty Dancing Scene (https://www.youtube.com/watch?v=YRcKrkhOYUo)
 
