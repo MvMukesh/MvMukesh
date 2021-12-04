@@ -14,7 +14,7 @@ Passion, Purpose, People, Product, Partnership
 &lt;!-- TODO: --&gt;
 
 - 🔭 I’m currently exploring DeepLearning
-- 🤔 I’m looking forward to share my MachineLearning, DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
+- 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 
 
 #### Key Skill's
