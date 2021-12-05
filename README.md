@@ -1,8 +1,7 @@
 ## Hi <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-Data Science enthusiast hunting for functionality crossing over between analytics and machine learning seeking challenging position within a reputed organization.
-Love  to observe mountain range through tennis racket.
-
+Passionate about tackling challenges in Machine Learning, Data Science and Computer Vision.
+Love to work in a start-up environment and be around people who are smarter than me. Always looking forward to enhance my skillset and bring a change in society. Quick learner and can adapt to change.
 Passion, Purpose, People, Product, Partnership
 
 :mailbox: Link Up!
