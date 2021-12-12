@@ -30,7 +30,7 @@ Passion, Purpose, People, Product, Partnership
 
 &lt;!-- TODO: --&gt;
 
-- 🔭 I’m currently exploring Computer Vision and DeepLearning
+- 🔭 I’m currently exploring DeepLearning for Computer Vision
 - 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 
 
