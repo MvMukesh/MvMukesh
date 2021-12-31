@@ -34,24 +34,39 @@ Passion, Purpose, People, Product, Partnership
 - 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 
 
-#### Key Skill's
-<br>
+## Key Skill's
 
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=python&amp;logoColor=61DBFB)](#)
-[![MySQL Badge](https://img.shields.io/badge/-MYSQL-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=MYSQL&amp;logoColor=F0DB4F)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-Mongodb-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=MongoDBL&amp;logoColor=F0DB4F)](#)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-3C873A?style=for-the-badge&amp;labelColor=black&amp;logo=tableau&amp;logoColor=3C873A)](#)
-[![Github Badge](https://img.shields.io/badge/-Github-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=github&amp;logoColor=007acc)](#)
-[![MsExcell Badge](https://img.shields.io/badge/-MsExcel-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=MsExcel&amp;logoColor=3C873)](#)
-[**`Machine Learning`**]
+### Languages
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+### Tools
+![](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   
 
 
 #### More About Mukesh
 - :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Resume.pdf)
 
+[![Mukesh777 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MvMukesh&theme=react-dark&hide_border=true)](https://github.com/MvMukesh)
+
+![Mukesh777  github stats](https://github-readme-stats.vercel.app/api?username=MvMukesh&show_icons=true&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes")
+
+![Mukesh777 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MvMukesh&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MvMukesh.MvMukesh)
 
+![](https://komarev.com/ghpvc/?username=hrsht-13&color=green)
