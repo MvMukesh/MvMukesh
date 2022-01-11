@@ -57,7 +57,7 @@ Passion, Purpose, People, Product, Partnership
 
 
 #### More About Mukesh
-- :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Jr_Data_Scientist_Resume.pdf)
 
 [![Mukesh777 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MvMukesh&theme=react-dark&hide_border=true)](https://github.com/MvMukesh)
 
