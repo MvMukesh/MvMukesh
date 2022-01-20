@@ -9,7 +9,7 @@ These experiences motivated me to extend my knowledge and I’m currently workin
 
 My life outside of this involves solving the Rubik’s Cube, reading and learning about businesses & finance and writing about general learning pitfalls which one can get into if not guided well.
 
-I’m actively looking to build upon my experiences more solid and I’m currently seeking Full time opportunities as an entry-level Business analyst, Data analyst, Data Scientist, or Machine Learning Engineer.
+I’m actively looking to build upon my experiences more solid and I’m currently seeking Full time opportunities as an entry-level Data Scientist or Machine Learning Engineer.
 
 Technical Skills
 Python and ML Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, ggplot2, OpenCv
