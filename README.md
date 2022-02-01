@@ -40,8 +40,8 @@ Passion, Purpose, People, Product, Partnership
 ## Key Skill's
 
 ### Languages
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-FFCC00?style=for-the-badge&logo=MySQL&logoColor=red)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,12 +50,17 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![](https://img.shields.io/badge/ApacheSpark-FF4B4B?style=for-the-badge&logo=ApacheSpark&logoColor=white)
+![](https://img.shields.io/badge/ApacheHadoop-FF4B4C?style=for-the-badge&logo=ApacheHadoop&logoColor=white)
+
 ### Tools
 ![](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![](https://img.shields.io/badge/Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Pycharm-orange?style=for-the-badge&logo=Pycharm&logoColor=white)
+![](https://img.shields.io/badge/VisualStudio-orange?style=for-the-badge&logo=VisualStudio&logoColor=white)
   
 
 
