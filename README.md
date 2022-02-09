@@ -12,14 +12,14 @@ These experiences motivated me to extend my knowledge and I’m currently workin
 
 My life outside of this involves solving the Rubik’s Cube, reading and learning about businesses & finance and writing about general learning pitfalls which one can get into if not guided well.
 
-I’m actively looking to build upon my experiences more solid and I’m currently seeking Full time opportunities as an entry-level Data Scientist or Machine Learning Engineer.
+I’m actively looking to build upon my experiences more solid and I’m currently seeking opportunitie as an Data Scientist or Computer Vision Engineer.
 
 Technical Skills
-Python and ML Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, ggplot2, OpenCv
+Python and ML Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, ggplot2
 Analysis Tools: Tableau, MsExcel
 Programming: SQL, Python
 Operating Systems: Unix, Windows
-Databases: MySQL, PostgreSQL, SQL Server
+Databases: MySQL, PostgreSQL
 Cloud: Basic AWS Sagemaker
 
 If you’re here, you’re probably curious to know more about me, even otherwise, I’m genuinely interested to know more about you. Feel free to reach out to me.
