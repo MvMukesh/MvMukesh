@@ -61,13 +61,13 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/ApacheHadoop-FF4B4C?style=flat&amp&logo=ApacheHadoop&logoColor=white)
 
 #### Tools
-![](https://img.shields.io/badge/Tableau-F2C811?style=flat&amp&logo=Power%20BI&logoColor=white)
 ![](https://img.shields.io/badge/Excel-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Tableau-F2C811?style=flat&amp&logo=Power%20BI&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&amp&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=fflat&amp&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Pycharm-orange?style=flat&amp&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/VisualStudio-orange?style=flat&amp&logo=VisualStudio&logoColor=white)
-![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=Spyder&logoColor=white)
+![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
   
 
 
