@@ -2,6 +2,8 @@
 
 I’m an inquisitive learner passionate about leveraging the power of data and financial numbers to extract quintessential insights to solve real-world problems✨✨✨
 
+[![Linkedin Badge](https://img.shields.io/badge/-MukeshManral-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
+[![Mail Badge](https://img.shields.io/badge/-MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com) 
 <details>
 During my stint in TechSim+ as a Machine Learning and Deep Learning Intern, I worked on identifying trends in the crypto market by analysing the cryptocurrency historical data based on seven core principles. This experience gave me an understanding of how businesses leverage data to make crucial trading market decisions.
 
@@ -25,12 +27,6 @@ Cloud: Basic AWS Sagemaker
 If you’re here, you’re probably curious to know more about me, even otherwise, I’m genuinely interested to know more about you. Feel free to reach out to me.
 Passion, Purpose, People, Product, Partnership
   
-:mailbox: Link Up!
-
-[![Linkedin Badge](https://img.shields.io/badge/-MukeshManral-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) [![Mail Badge](https://img.shields.io/badge/-MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com) 
-
-
-
 &lt;!-- TODO: --&gt;
 
 - 🔭 I’m currently exploring DeepLearning for Computer Vision
