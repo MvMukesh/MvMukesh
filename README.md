@@ -3,9 +3,6 @@
 [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-[![Mail Badge](https://img.shields.io/badge/-Portfolio-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=general&amp;logoColor=white)](https://mvmukesh.github.io)
-
------
 I’m an inquisitive learner passionate about leveraging the power of data and financial numbers to extract quintessential insights to solve real-world problems✨✨✨
  
 <details>
@@ -71,11 +68,7 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/VisualStudio-orange?style=flat&amp&logo=VisualStudio&logoColor=white)
 ![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
   
-
-
-#### More About Mukesh
-[![Resume](https://img.shields.io/badge/-My_Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Data_Scientist_Resume.pdf)
-
 #### Data Science Work Tracker
-[![All Work Tracker](https://img.shields.io/badge/-DataScience_Work_Tracker-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](link)
-
+[![All Work Tracker](https://img.shields.io/badge/-DataScience_Work_Tracker-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/DataScience-Work-Tracker)<br>
+[![Mukesh Portfoli](https://img.shields.io/badge/-Portfolio-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://mvmukesh.github.io)<br>
+[![Mukesh Resume](https://img.shields.io/badge/-Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Data_Scientist_Resume.pdf)
