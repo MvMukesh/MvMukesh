@@ -82,8 +82,6 @@ Passion, Purpose, People, Product, Partnership
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MvMukesh.MvMukesh)
-
-![](https://komarev.com/ghpvc/?username=hrsht-13&color=green)
+![](https://https://github.com/MvMukesh?username=MvMukesh&color=green)
 
 
