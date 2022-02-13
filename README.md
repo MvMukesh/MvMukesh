@@ -74,14 +74,4 @@ Passion, Purpose, People, Product, Partnership
 #### More About Mukesh
 - :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Data_Scientist_Resume.pdf)
 
-[![Mukesh777 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MvMukesh&theme=react-dark&hide_border=true)](https://github.com/MvMukesh)
-
-![Mukesh777  github stats](https://github-readme-stats.vercel.app/api?username=MvMukesh&show_icons=true&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes")
-
-![Mukesh777 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MvMukesh&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)
-
-#### Profile Visits
-
-![](https://https://github.com/MvMukesh?username=MvMukesh&color=green)
-
 
