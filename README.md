@@ -72,6 +72,8 @@ Passion, Purpose, People, Product, Partnership
 
 
 #### More About Mukesh
-- :paperclip: [My Resume/CV](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Data_Scientist_Resume.pdf)
+[![Resume](https://img.shields.io/badge/-My_Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Data_Scientist_Resume.pdf)
 
+#### Data Science Work Tracker
+[![All Work Tracker](https://img.shields.io/badge/-DataScience_Work_Tracker-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](link)
 
