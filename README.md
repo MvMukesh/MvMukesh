@@ -69,6 +69,6 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
   
 #### Data Science Work Tracker
-[![All Work Tracker](https://img.shields.io/badge/-DataScience_Work_Tracker-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/DataScience-Work-Tracker)<br>
+[![Easy DataScience For You](https://img.shields.io/badge/-DataScience_Work_Tracker-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/Easy-DataScience-For-You)<br>
 [![Mukesh Portfoli](https://img.shields.io/badge/-Portfolio-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://mvmukesh.github.io)<br>
 [![Mukesh Resume](https://img.shields.io/badge/-Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=general&amp;logoColor=white)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Data_Scientist_Resume.pdf)
