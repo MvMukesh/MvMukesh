@@ -3,6 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
+Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
 I’m an inquisitive learner passionate about leveraging the power of data and financial numbers to extract quintessential insights to solve real-world problems✨✨✨
  
 <details>
