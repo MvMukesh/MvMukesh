@@ -49,7 +49,8 @@ Passion, Purpose, People, Product, Partnership
 #### Python Libs
 ![](https://img.shields.io/badge/Numpy-777BB4?style=flat&amp&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&amp&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Scipy-blue?style=flat&amp&logo=Scipy&logoColor=white)
+![](https://img.shields.io/badge/Scipy-blue?style=flat&amp&logo=Scipy&logoColor=white) 
+![](https://img.shields.io/badge/Sqlite3-blue?style=flat&amp&logo=sqlite&logoColor=white)
 
 
 #### Frameworks
@@ -61,6 +62,13 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Amazon_ML-blue?style=flat&amp&logo=amazonmachinelearning&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp&logo=Streamlit&logoColor=white)
 
+
+#### Cloud
+![](https://img.shields.io/badge/AWS-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/AWS_Sagemaker-F9AB00?style=fflat&amp&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/AWS_Lambda-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/AWS_API's-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
+
 #### Tools
 ![](https://img.shields.io/badge/Excel-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-F2C811?style=flat&amp&logo=Power%20BI&logoColor=white)
@@ -69,12 +77,6 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Pycharm-orange?style=flat&amp&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/VisualStudio-orange?style=flat&amp&logo=VisualStudio&logoColor=white)
 ![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
-
-#### Cloud
-![](https://img.shields.io/badge/AWS-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
-![](https://img.shields.io/badge/AWS_Sagemaker-F9AB00?style=fflat&amp&logo=googlecolab&color=525252)
-![](https://img.shields.io/badge/AWS_Lambda-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
-![](https://img.shields.io/badge/AWS_API's-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
 
   
 #### About My Work
