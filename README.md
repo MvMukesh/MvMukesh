@@ -35,8 +35,8 @@ Passion, Purpose, People, Product, Partnership
 - 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 </details>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MukeshManral-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
-[![Kaggle Badge](https://img.shields.io/badge/-MukeshManral-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 
 
 #### Languages
@@ -51,6 +51,7 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&amp&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Scipy-blue?style=flat&amp&logo=Scipy&logoColor=white)
 ![](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&amp&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Open_CV-F7931Ef?style=flat&amp&logo=scikit-learn&logoColor=white)
 
 
 #### Frameworks
