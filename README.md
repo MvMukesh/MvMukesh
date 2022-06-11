@@ -69,6 +69,13 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Pycharm-orange?style=flat&amp&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/VisualStudio-orange?style=flat&amp&logo=VisualStudio&logoColor=white)
 ![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
+
+#### Cloud
+![](https://img.shields.io/badge/AWS-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/AWS_Sagemaker-F9AB00?style=fflat&amp&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/AWS_Lambda-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/AWS_API's-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
+
   
 #### About My Work
 [![](https://img.shields.io/badge/My_Portfolio-F7931Ef?style=flat&amp&logo=scikit-learn&logoColor=white)](https://mvmukesh.github.io)<br>
