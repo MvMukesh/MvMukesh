@@ -50,16 +50,16 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/Numpy-777BB4?style=flat&amp&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&amp&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Scipy-blue?style=flat&amp&logo=Scipy&logoColor=white)
-![](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&amp&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/Open_CV-F7931Ef?style=flat&amp&logo=scikit-learn&logoColor=white)
 
 
 #### Frameworks
-![](https://img.shields.io/badge/Keras-D00000?style=flat&amp&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&amp&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=flat&amp&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/MxNet-FF6F00?style=flat&amp&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp&logo=Streamlit&logoColor=white)
-![](https://img.shields.io/badge/ApacheSpark-blue?style=flat&amp&logo=ApacheSpark&logoColor=white)
-![](https://img.shields.io/badge/ApacheHadoop-FF4B4C?style=flat&amp&logo=ApacheHadoop&logoColor=white)
+![](https://img.shields.io/badge/OpencCv-orange?style=flat&amp&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Amazon_ML-blue?style=flat&amp&logo=Amazon_Machine_Learning&logoColor=white)
 
 #### Tools
 ![](https://img.shields.io/badge/Excel-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
