@@ -42,9 +42,9 @@ Passion, Purpose, People, Product, Partnership
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&ampe&logo=python&logoColor=white)
 
-#### Databases
+<!-- #### Databases
 ![](https://img.shields.io/badge/MySQL-FFCC00?style=flat&amp&logo=MySQL&logoColor=red)
-![](https://img.shields.io/badge/MongoDB-FFCC00?style=flat&amp&logo=MongoDB&logoColor=red)
+![](https://img.shields.io/badge/MongoDB-FFCC00?style=flat&amp&logo=MongoDB&logoColor=red)-->
 
 #### Python Libs
 ![](https://img.shields.io/badge/Numpy-777BB4?style=flat&amp&logo=numpy&logoColor=white)
