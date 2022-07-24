@@ -53,6 +53,7 @@ Passion, Purpose, People, Product, Partnership
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Keras-D0000d?style=flat&amp&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/OpenCv-orange?style=flat&amp&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Spacy-orange?style=flat&amp&logo=Spacy&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp&logo=Streamlit&logoColor=white)
 
 
