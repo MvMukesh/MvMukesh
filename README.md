@@ -11,22 +11,26 @@ I’m an inquisitive learner passionate about leveraging the power of data and f
 
 My life outside of this involves solving the Rubik’s Cube, reading and learning about businesses & finance and writing about general learning pitfalls which one can get into if not guided well.
 
-I’m actively looking to build upon my experiences more solid and I’m currently seeking opportunitie as an Data Scientist or Computer Vision Engineer.
+I’m actively looking to build upon my experiences more solid and currently seeking opportunitie as an Data Scientist.
 
-Technical Skills
-Python and ML, DL Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, ggplot2, NLTK, tensorflow, keras, opencv
-Analysis Tools: Tableau, MsExcel
-Programming: SQL, Python
-Operating Systems: Unix, Windows
-Databases: MySQL, PostgreSQL
-Cloud: Basic AWS Sagemakerw, AWS Lambda, AWS API
+Technical Skills: <br>
+Python and Machine Learning, Libraries like : Pandas, Numpy, Matplotlib, Seaborn, ggplot2, scikit-learn, NLTK, spacy, tensorflow, keras, opencv <br>
 
-If you’re here, you’re probably curious to know more about me, even otherwise, I’m genuinely interested to know more about you. Feel free to reach out to me.
-Passion, Purpose, People, Product, Partnership
+Analysis Tools: Tableau, MsExcel <br>
+
+Programming: Python <br>
+
+Operating Systems: Unix, Windows <br>
+
+<!---Databases: MySQL, PostgreSQL--->
+Cloud : Basic AWS Sagemaker, AWS Lambda, AWS API
+
+Feel free to reach out to me <br>
+`Passion, Purpose, People, Product, Partnership`
   
 &lt;!-- TODO: --&gt;
 
-- 🔭 I’m currently exploring DeepLearning for Computer Vision
+- 🔭 I’m currently exploring DeepLearning and Computer Vision
 - 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 </details>
 
