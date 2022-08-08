@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-1 years of experience in data science and analytics. Worked with service-based startup as well as product-based startup and played a big role in scaleup of data science and analytics team along with the business.
+1+ years of experience in data science and analytics. Worked with service-based startup as well as product-based startup and played a big role in scaleup of data science and analytics team along with the business.
  
 <details>
 Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
