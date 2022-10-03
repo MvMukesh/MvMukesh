@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-Data Scientist having 1.5+ years of experience working in machine learning, computer vision and natural language processing. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
+Data Scientist having 1.6 years of experience working in machine learning, Deep Learning(computer vision). Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
  
 <details>
 Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
