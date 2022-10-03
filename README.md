@@ -1,6 +1,10 @@
 
 
 [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
+
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
 Data Scientist having 1.6 years of experience working in machine learning, Deep Learning(computer vision). Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
@@ -33,9 +37,6 @@ Feel free to reach out to me <br>
 - 🔭 I’m currently exploring DeepLearning and Computer Vision
 - 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 </details>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 
 
 #### Languages
