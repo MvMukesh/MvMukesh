@@ -77,6 +77,6 @@ Feel free to reach out to me <br>
 ![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
 
   
-#### About My Work
+<!---#### About My Work
 [![](https://img.shields.io/badge/My_Portfolio-F7931Ef?style=flat&amp&logo=scikit-learn&logoColor=white)](https://mvmukesh.github.io)<br>
-[![Mukesh Resume](https://img.shields.io/badge/-Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Resume.pdf)<br>
+[![Mukesh Resume](https://img.shields.io/badge/-Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Resume.pdf)<br> --->
