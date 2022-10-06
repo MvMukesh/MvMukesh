@@ -7,7 +7,7 @@
 
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-Data Scientist having 1.6 years of experience working in machine learning, Deep Learning(computer vision). Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
+1.6 years of proven experience working in machine learning, deep learning|computer vision. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
  
 <details>
 Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
