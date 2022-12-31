@@ -1,41 +1,30 @@
 
-
-[![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 
-<img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
+<img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/invo.gif" width="28px" height ="20px">
 
 Proven experience working in machine learning, deep learning|computer vision. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
  
 <details>
 Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
+
 I’m an inquisitive learner passionate about leveraging the power of data and financial numbers to extract quintessential insights to solve real-world problems✨✨✨
 
-My life outside of this involves solving the Rubik’s Cube, reading and learning about businesses & finance and writing about general learning pitfalls which one can get into if not guided well.
+My life outside of this involves solving the Rubik’s Cube, Reading about businesses & finance.
 
-I’m actively looking to build upon my experiences more solid and currently seeking opportunitie as an Data Scientist.
-
-Technical Skills: <br>
+▪ Technical Skills: <br>
 Python and Machine Learning, Libraries like : Pandas, Numpy, Matplotlib, Seaborn, ggplot2, scikit-learn, NLTK, spacy, tensorflow, keras, opencv <br>
 
-Analysis Tools: Tableau, MsExcel <br>
+▪ Analysis Tools: Tableau, MsExcel <br>
 
-Programming: Python <br>
-
-Operating Systems: Unix, Windows <br>
+▪ Operating Systems: Unix, Windows <br>
 
 <!---Databases: MySQL, PostgreSQL--->
-Cloud : Basic AWS Sagemaker, AWS Lambda, AWS API
+▪ Cloud : AWS Sagemaker, AWS Lambda, AWS API
 
-Feel free to reach out to me <br>
-`Passion, Purpose, People, Product, Partnership`
-  
-&lt;!-- TODO: --&gt;
+Feel free to reach out to me [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)<br>
 
-- 🔭 I’m currently exploring DeepLearning and Computer Vision
-- 🤔 I’m sharing my DataScience knowledge here [Kaggle](https://www.kaggle.com/mukeshmanral).
 </details>
 
 
