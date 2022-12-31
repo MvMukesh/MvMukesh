@@ -1,10 +1,10 @@
+<img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/invo.gif" width="28px" height ="20px">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 
-<img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/invo.gif" width="28px" height ="20px">
-
-Proven experience working in machine learning, deep learning|computer vision. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
+Proven experience working in Machine Learning, Deep Learning|computer vision. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
  
 <details>
 Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
