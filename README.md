@@ -7,7 +7,7 @@
 
 <img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Hi.gif" width="28px" height ="20px">
 
-1.6 years of proven experience working in machine learning, deep learning|computer vision. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
+Proven experience working in machine learning, deep learning|computer vision. Worked with service-based as well as product-based startup and played a big role in scale up of data analytics team along with the business.
  
 <details>
 Curiosity, Intellectual agility, Statistical fluency, Research stamina, Scientific rigor and Skeptical nature.
@@ -69,7 +69,6 @@ Feel free to reach out to me <br>
 ![](https://img.shields.io/badge/AWS_API's-F9ABd0?style=fflat&amp&logo=googlecolab&color=525252)
 
 #### Tools
-![](https://img.shields.io/badge/Excel-blue?style=flat&amp&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-F2C811?style=flat&amp&logo=Power%20BI&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&amp&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=fflat&amp&logo=googlecolab&color=525252)
