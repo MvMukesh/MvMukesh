@@ -65,4 +65,4 @@ Python and Machine Learning, Libraries like : Pandas, Numpy, Matplotlib, Seaborn
 [![](https://img.shields.io/badge/My_Portfolio-F7931Ef?style=flat&amp&logo=scikit-learn&logoColor=white)](https://mvmukesh.github.io)<br>
 [![Mukesh Resume](https://img.shields.io/badge/-Resume-0e76a8?style=flat&amp;labelColor=0e76a8&amp)](https://github.com/MvMukesh/MvMukesh/blob/main/Resume/Mukesh_Manral_Resume.pdf)<br> --->
 
-Feel free to reach out to me [![Mail Badge](https://img.shields.io/badge/-Hi_this_is_MukeshManral-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)<br>
+Feel free to reach out to me [![Mail Badge](https://img.shields.io/badge/-MM-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)<br>
