@@ -1,6 +1,3 @@
-<img src="https://github.com/MvMukesh/MvMukesh/blob/main/Resume/invo.gif" width="28px" height ="20px">
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 
