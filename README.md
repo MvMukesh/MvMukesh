@@ -1,3 +1,6 @@
+![Alt text](https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/document.gif "Optional title")
+                                                                                                                                  
+
 <h1><a href = "https://mvmukesh.github.io/">Portfolio</a></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
