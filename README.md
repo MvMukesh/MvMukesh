@@ -44,7 +44,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula)
 
-## My Contribution
+## My Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai)](https://github.com/MvMukesh/Manralai)
 
 ## Proof of Concept
