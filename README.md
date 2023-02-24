@@ -45,7 +45,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula)
 
 ## My Contributions
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai)](https://github.com/MvMukesh/Manralai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai&theme=dracula)](https://github.com/MvMukesh/Manralai)
 
 ## Proof of Concept
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Any-Financial-Document-Data-Extractor)](https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Any-Financial-Document-Data-Extractor&theme=dracula)](https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor)
