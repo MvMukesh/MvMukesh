@@ -42,8 +42,6 @@
 ![](https://img.shields.io/badge/VisualStudio-orange?style=flat&amp&logo=VisualStudio&logoColor=white)
 ![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
 
-![](https://api.githubtrends.io/user/svg/MvMukesh/langs?time_range=one_year&include_private=True&theme=classic)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula)
 
 
