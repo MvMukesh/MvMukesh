@@ -4,15 +4,15 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 [![Mail Badge](https://img.shields.io/badge/-Connect-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
 
-
+<!-- 
 #### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&ampe&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&ampe&logo=python&logoColor=white) -->
 
 <!-- #### Databases
 ![](https://img.shields.io/badge/MySQL-FFCC00?style=flat&amp&logo=MySQL&logoColor=red)
-![](https://img.shields.io/badge/MongoDB-FFCC00?style=flat&amp&logo=MongoDB&logoColor=red)-->
+![](https://img.shields.io/badge/MongoDB-FFCC00?style=flat&amp&logo=MongoDB&logoColor=red) -->
 
-#### Python Libs
+<!--#### Python Libs
 ![](https://img.shields.io/badge/Numpy-777BB4?style=flat&amp&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&amp&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Scipy-blue?style=flat&amp&logo=Scipy&logoColor=white) 
@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Colab-F9AB00?style=fflat&amp&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Pycharm-orange?style=flat&amp&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/VisualStudio-orange?style=flat&amp&logo=VisualStudio&logoColor=white)
-![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white)
+![](https://img.shields.io/badge/Spyder-orange?style=flat&amp&logo=SpyderIDE&logoColor=white) -->
 
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula)
