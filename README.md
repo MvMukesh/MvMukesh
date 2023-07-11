@@ -54,4 +54,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=FeatureSelection-Framework-ML&theme=dracula)](https://github.com/MvMukesh/FeatureSelection-Framework-ML)
 
 ## Proof of Concept
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Any-Financial-Document-Data-Extractor&theme=dracula)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Auto-KYCExtractionEngine&theme=dracula)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine)
