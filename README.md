@@ -53,3 +53,4 @@
 
 ## Proof of Concept
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=AutoKYC-ExtractionEngine&theme=dracula)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=AutoKYC-ExtractionEngine&theme=dracula)](https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media)
