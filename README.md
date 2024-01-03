@@ -2,9 +2,9 @@
 
 [<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="mukeshmanral | Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
 [<img align="left" alt="mukeshmanral | Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][Kaggle]
 [<img align="left" alt="mukeshmanral | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="mukeshmanral | Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
 
 
 <br>
