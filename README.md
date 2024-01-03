@@ -29,6 +29,7 @@
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
   <img src="https://img.icons8.com/color/48/000000/brain-3.png" alt="nlp" width="40" height="40"/>
   <a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku" width="40" height="40"/></a>
@@ -39,6 +40,7 @@
 </p>
 
 ---
+
 
 ## My Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai&theme=dracula)](https://github.com/MvMukesh/Manralai)
