@@ -1,7 +1,24 @@
+[<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="mukeshmanral | Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
+[<img align="left" alt="mukeshmanral | Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][Kaggle]
+[<img align="left" alt="mukeshmanral | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
+
+<br>
+
+[linkedin]: https://www.linkedin.com/in/mukesh-manral/
+[YouTube]: https://www.youtube.com/@manralai
+[Medium]: https://manralai.medium.com
+[Kaggle]: https://www.kaggle.com/mukeshmanral
+[Instagram]: https://www.instagram.com/manralai/
+
+
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mukesh-manral/) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=KAGGLE&amp;logoColor=white)](https://www.kaggle.com/mukeshmanral/code)
 [![Mail Badge](https://img.shields.io/badge/-Connect-c0392b?style=flat&amp;labelColor=c0392b&amp;logo=gmail&amp;logoColor=white)](mailto:mukeshmanral777@gmail.com)
-
+-->
 <!-- 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&ampe&logo=python&logoColor=white) -->
