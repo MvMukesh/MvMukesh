@@ -53,8 +53,7 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
   <img src="https://img.icons8.com/color/48/000000/brain-3.png" alt="nlp" width="40" height="40"/>
-  <a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv" width="40" height="40"/></a>
-  
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv" width="40" height="40"/></a> 
 </p>
 
 ---
