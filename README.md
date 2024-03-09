@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
+
 ## Find Me:
 
 [<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
