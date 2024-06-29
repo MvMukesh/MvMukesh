@@ -13,7 +13,7 @@
 
 [linkedin]: https://www.linkedin.com/in/mukesh-manral/
 [YouTube]: https://www.youtube.com/@manralai
-[Medium]: https://manralai.medium.com
+[Medium]: https://medium.com/@manralai/lists
 [Kaggle]: https://www.kaggle.com/mukeshmanral
 [Instagram]: https://www.instagram.com/manralai/
 
