@@ -77,4 +77,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media&theme=dracula)](https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=POC-ImageClassification-Pipeline&theme=dracula)](https://github.com/MvMukesh/POC-ImageClassification-Pipeline)
 
+<img alt="Random Memes" height="300px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
