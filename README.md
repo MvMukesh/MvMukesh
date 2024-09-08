@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
 
-## Find Me:
+$\color{gold}\large\texttt{Find Me:}$
 
 [<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
@@ -22,7 +22,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula)
 
 
-<h3 align="left">🧨 What do I use to get the job done ?</h3>
+<h3 align="left" style="color: red;">🧨 What do I use to get the job done ?</h3>
+<hr>
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
@@ -71,7 +73,7 @@
 
 ---
 
-## Projects & POC
+## Open-Source Projects and PoCs
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=visage.auth&theme=dracula)](https://github.com/MvMukesh/visage.auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=AutoKYC-ExtractionEngine&theme=dracula)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media&theme=dracula)](https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media)
