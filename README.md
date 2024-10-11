@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=20&pause=1000&color=F7F7F7&width=600&height=60&lines=DataScience+Specialist(Consultant)+->+GenerativeAI)](https://git.io/typing-svg)
 </div>  
 
@@ -22,11 +23,10 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvMukesh&theme=dracula) -->
 
 
 <h3 align="left" style="color: red;">🧨 What do I use to get the job done ?</h3>
-<hr>
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -76,12 +76,15 @@
 
 ---
 
-## Open-Source Projects and PoCs
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=Open+Source+Projects+and+POCs)](https://git.io/typing-svg)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=visage.auth&theme=dracula)](https://github.com/MvMukesh/visage.auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=AutoKYC-ExtractionEngine&theme=dracula)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media&theme=dracula)](https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=POC-ImageClassification-Pipeline&theme=dracula)](https://github.com/MvMukesh/POC-ImageClassification-Pipeline)
 
+<p align="center">
 <img alt="Random Memes" height="300px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+</p>
 
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
