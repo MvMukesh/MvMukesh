@@ -69,7 +69,7 @@
 
 ## My Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai&theme=dracula)](https://github.com/MvMukesh/Manralai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DSAinPython&theme=dracula)](https://github.com/MvMukesh/DSAinPython)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DSAinPython-ForDataRoles&theme=dracula)](https://github.com/MvMukesh/DSAinPython-ForDataRoles)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=ProblemSolving-FrameWork-ML&theme=dracula)](https://github.com/MvMukesh/ProblemSolving-FrameWork-ML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DataPreprocessing-Framework-ML&theme=dracula)](https://github.com/MvMukesh/DataPreprocessing-Framework-ML)
