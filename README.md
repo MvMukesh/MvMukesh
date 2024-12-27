@@ -81,7 +81,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=Open+Source+Projects+and+POCs)](https://git.io/typing-svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=visage.auth&theme=dracula)](https://github.com/MvMukesh/visage.auth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=AutoKYC-ExtractionEngine&theme=dracula)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=AutoKYC&theme=dracula)](https://github.com/MvMukesh/AutoKYC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media&theme=dracula)](https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=POC-ImageClassification-Pipeline&theme=dracula)](https://github.com/MvMukesh/POC-ImageClassification-Pipeline)
 
