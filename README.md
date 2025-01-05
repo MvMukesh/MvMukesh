@@ -80,8 +80,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=Open+Source+Projects+and+POCs)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=visage.auth&theme=dracula)](https://github.com/MvMukesh/visage.auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=link_lens&theme=dracula)](https://github.com/MvMukesh/link_lens)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=visage.auth&theme=dracula)](https://github.com/MvMukesh/visage.auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=autoKYC&theme=dracula)](https://github.com/MvMukesh/autoKYC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=cyberbully_detector&theme=dracula)](https://github.com/MvMukesh/cyberbully_detector)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=POC-ImageClassification-Pipeline&theme=dracula)](https://github.com/MvMukesh/POC-ImageClassification-Pipeline)
