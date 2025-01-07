@@ -66,18 +66,6 @@
 
 ---
 
-
-## My Contributions
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai&theme=dracula)](https://github.com/MvMukesh/Manralai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DSAinPython-ForDataRoles&theme=dracula)](https://github.com/MvMukesh/DSAinPython-ForDataRoles)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=ProblemSolving-FrameWork-ML&theme=dracula)](https://github.com/MvMukesh/ProblemSolving-FrameWork-ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DataPreprocessing-Framework-ML&theme=dracula)](https://github.com/MvMukesh/DataPreprocessing-Framework-ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=FeatureEngineering-Framework-ML&theme=dracula)](https://github.com/MvMukesh/FeatureEngineering-Framework-ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=FeatureSelection-Framework-ML&theme=dracula)](https://github.com/MvMukesh/FeatureSelection-Framework-ML)
-
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=Open+Source+Projects+and+POCs)](https://git.io/typing-svg)
 
 
@@ -89,6 +77,21 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=monitoring_N_testing_deployments&theme=dracula)](https://github.com/MvMukesh/monitoring_N_testing_deployments)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=cyberbully_detector&theme=dracula)](https://github.com/MvMukesh/cyberbully_detector)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=POC-ImageClassification-Pipeline&theme=dracula)](https://github.com/MvMukesh/POC-ImageClassification-Pipeline)
+
+
+
+---
+
+
+## My Contributions
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=Manralai&theme=dracula)](https://github.com/MvMukesh/Manralai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DSAinPython-ForDataRoles&theme=dracula)](https://github.com/MvMukesh/DSAinPython-ForDataRoles)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=ProblemSolving-FrameWork-ML&theme=dracula)](https://github.com/MvMukesh/ProblemSolving-FrameWork-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=DataPreprocessing-Framework-ML&theme=dracula)](https://github.com/MvMukesh/DataPreprocessing-Framework-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=FeatureEngineering-Framework-ML&theme=dracula)](https://github.com/MvMukesh/FeatureEngineering-Framework-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvMukesh&repo=FeatureSelection-Framework-ML&theme=dracula)](https://github.com/MvMukesh/FeatureSelection-Framework-ML)
+
 
 <p align="center">
 <img alt="Random Memes" height="300px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
