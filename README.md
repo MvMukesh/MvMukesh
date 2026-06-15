@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=20&pause=1000&color=F7F7F7&width=600&height=60&lines=DataScience+Specialist(Consultant)+->+GenerativeAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=20&pause=1000&color=F7F7F7&width=600&height=60&lines=Data_AI+Specialist(Consultant)+->+GenerativeAI)](https://git.io/typing-svg)
 </div>  
 
 <div align="center"> 
