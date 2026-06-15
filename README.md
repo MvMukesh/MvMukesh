@@ -14,7 +14,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@manralai"><img src="https://img.shields.io/badge/Youtube-411AFF?style=for-the-badge&logo=Youtube&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
  
 
 <!-- <a href="https://discord.user"><img alt="discord_logo" src="https://img.shields.io/badge/Discord-411AFF?style=for-the-badge&logo=discord&logoColor=white"/></a>
