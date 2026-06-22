@@ -67,6 +67,7 @@
 
 ---
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=GenAI+Projects)](https://git.io/typing-svg)
 
 ---
