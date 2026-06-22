@@ -70,6 +70,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=GenAI+Projects)](https://git.io/typing-svg)
 
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=MvMukesh&repo=production-adk-agent-google&theme=dracula)](https://github.com/MvMukesh/production-adk-agent-google)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=MvMukesh&repo=LangMem-Insurance-Claims-Copilot-&theme=dracula)](https://github.com/MvMukesh/LangMem-Insurance-Claims-Copilot-)
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=30&pause=1000&color=F7F7F7&width=600&height=60&lines=Projects+and+POCs)](https://git.io/typing-svg)
